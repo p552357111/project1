@@ -1,0 +1,1 @@
+var oLi =ducumentget.getElementByTagName("li");
